@@ -1,0 +1,14 @@
+{
+  "name": "O Começo",
+  "description": "Mod de sobrevivência com humanos, animais e desafios.",
+  "author": "Seu Nome",
+  "version": "1.0.0",
+  "scripts": [
+    "scripts/main.js"
+  ],
+  "assets": {
+    "images": [
+      "assets/árvore.png"
+    ]
+  }
+}
